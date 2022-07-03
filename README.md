@@ -9,6 +9,8 @@ Anyone who submits resources to this repository through a pull request (that is 
 
 [video](english/video) - very short (5-10 second) video clips that capture the essence of the merge in bite-sized content.
 
+[grahpics](english/graphics) - graphics resources
+
 [music](english/music) - songs created for the merge, notably songs by artists like Jonathan Mann
 
 [sample news](english/sample_news) - example content and news stories that would be viewed by media outlets to get an idea of how to relate this news to their audience.
