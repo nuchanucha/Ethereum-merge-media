@@ -9,3 +9,8 @@ Articles providing accessible explanations for various aspects of The Merge.
 4) [Ethereum's PoS mechanism](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper)
 5) [What is the Beacon Chain?](https://ethereum.org/en/upgrades/beacon-chain)
 6) [How the merge affects ETH supply](https://ethereum.org/en/upgrades/merge/issuance/#how-the-merge-impacts-ETH-supply)
+
+## consensys.net
+1) [The Merge — Knowledge Base](https://consensys.net/knowledge-base/the-merge/)
+2) [On Client Diversity](https://consensys.net/blog/besu/the-critical-need-for-client-diversity-ahead-of-ethereums-merge-to-proof-of-stake/)
+3) [Rewards and Penalties Post-Merge](https://consensys.net/blog/codefi/rewards-and-penalties-on-ethereum-20-phase-0/)
