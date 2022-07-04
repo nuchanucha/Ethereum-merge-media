@@ -7,6 +7,8 @@ Anyone who submits resources to this repository through a pull request (that is 
 
 [audio](english/audio) - clips from reputable providers describing the merge, consider resources that are likely to be used by radio news outlets.
 
+[explainers](english/explainers) - accessible articles explaining various aspects of The Merge
+
 [video](english/video) - very short (5-10 second) video clips that capture the essence of the merge in bite-sized content.
 
 [grahpics](english/graphics) - graphics resources
