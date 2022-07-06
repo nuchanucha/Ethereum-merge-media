@@ -22,6 +22,9 @@ Articles providing accessible explanations for various aspects of The Merge.
 2) [On Client Diversity](https://consensys.net/blog/besu/the-critical-need-for-client-diversity-ahead-of-ethereums-merge-to-proof-of-stake/)
 3) [Rewards and Penalties Post-Merge](https://consensys.net/blog/codefi/rewards-and-penalties-on-ethereum-20-phase-0/)
 
+## Galaxy Digital Research
+1) [A step-by-step overview of Ethereum's merge upgrade and associated risks](https://docsend.com/view/4jqqdw5w68r8ww68)
+
 ## Tim Beiko
 1) [Ethereum Roadmap FAQ](https://github.com/timbeiko/eth-roadmap-faq)
 2) [How The Merge Has Evolved](https://tim.mirror.xyz/CHQtTJb1NDxCK41JpULL-zAJe7YOtw-m4UDw6KDju6c)
