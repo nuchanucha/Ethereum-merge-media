@@ -12,6 +12,8 @@ Anyone who submits resources to this repository through a pull request (that is 
 
 * [**Music**](english/music) - songs created for the merge, notably songs by artists like Jonathan Mann
 
+* [**Newsletters**](english/newsletters) - Newsletters to keep up to date on merge news 
+
 * [**Press Releases**](english/press_releases) - sample or actual press releases that cover the merge
 
 * [**Sample News**](english/sample_news) - example content and news stories that would be viewed by media outlets to get an idea of how to relate this news to their audience
