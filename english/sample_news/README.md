@@ -7,3 +7,5 @@ Sample news would be example content and news stories that would be viewed by me
 3. [Bloomberg — Ethereum Moves Closer to Blockchain Revamp After Milestone Test](https://www.bloomberg.com/news/articles/2022-06-08/ethereum-moves-closer-to-blockchain-revamp-after-successful-test)
 
 4. [Ethereum's new version is still on track for 2022](https://www.axios.com/2022/06/27/ethereum-new-version-2022-eth-ether)
+
+5. [The Conversation - Cryptocurrency, NFTs and the metaverse threaten an environmental nightmare – here’s how to avoid it](https://theconversation.com/cryptocurrency-nfts-and-the-metaverse-threaten-an-environmental-nightmare-heres-how-to-avoid-it-175761)
